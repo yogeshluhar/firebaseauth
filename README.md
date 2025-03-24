@@ -43,8 +43,6 @@ This is a Flutter-based authentication system using Firebase Authentication for 
 ## 🤝 Contributing
 Feel free to contribute by submitting issues or pull requests.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 🚀 Happy Coding! 🔥
